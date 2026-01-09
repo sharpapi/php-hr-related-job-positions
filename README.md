@@ -87,19 +87,91 @@ try {
 
 ## Example Response
 ```json
+
 {
-  "data": {
-    "type": "api_job_result",
-    "id": "job-id-here",
-    "attributes": {
-      "status": "success",
-      "type": "content_processing",
-      "result": {
-        "content": "Processed result content here..."
-      }
+    "data": {
+        "type": "api_job_result",
+        "id": "80d0a822-0e2a-40e1-97fd-e7fd62ec9eb0",
+        "attributes": {
+            "status": "success",
+            "type": "hr_related_job_positions",
+            "result": {
+                "job_position": "Flutter Mobile Developer",
+                "related_job_positions": [
+                    {
+                        "name": "Android Developer",
+                        "weight": 8
+                    },
+                    {
+                        "name": "iOS Developer",
+                        "weight": 8.5
+                    },
+                    {
+                        "name": "MOBILE APP DEVELOPER",
+                        "weight": 9.5
+                    },
+                    {
+                        "name": "React Native Developer",
+                        "weight": 7.5
+                    },
+                    {
+                        "name": "Mobile-Entwickler f\u00fcr Flutter",
+                        "weight": 10
+                    },
+                    {
+                        "name": "Flutter-App-Entwickler",
+                        "weight": 9
+                    },
+                    {
+                        "name": "Mobile-App-Entwickler (Flutter)",
+                        "weight": 8
+                    },
+                    {
+                        "name": "Flutter-Entwickler",
+                        "weight": 10
+                    },
+                    {
+                        "name": "Cross-Platform Mobile Developer",
+                        "weight": 7
+                    },
+                    {
+                        "name": "Mobile-App-Entwickler",
+                        "weight": 9
+                    },
+                    {
+                        "name": "Mobile-Entwickler",
+                        "weight": 8
+                    },
+                    {
+                        "name": "App-Entwickler",
+                        "weight": 7
+                    },
+                    {
+                        "name": "iOS-Entwickler",
+                        "weight": 6
+                    },
+                    {
+                        "name": "Flutter Entwickler",
+                        "weight": 10
+                    },
+                    {
+                        "name": "Mobile App Entwickler",
+                        "weight": 9
+                    },
+                    {
+                        "name": "Android Entwickler",
+                        "weight": 8
+                    },
+                    {
+                        "name": "iOS Entwickler",
+                        "weight": 7.5
+                    }
+                ]
+            }
+        }
     }
-  }
 }
+
 ```
 ---
 
