@@ -16,7 +16,7 @@ Check the full documentation on the [Hr Related Job Positions API for PHP API](h
 | Resource | Link |
 |----------|------|
 | **Main API Documentation** | [Authorization, Webhooks, Polling & More](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) |
-| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsVT) |
+| **Postman Documentation** | [View Docs](https://documenter.getpostman.com/view/31106842/2sBXVeGsaA) |
 | **Product Details** | [SharpAPI.com](https://sharpapi.com/en/catalog/ai/hr-tech/related-job-positions-generator) |
 | **SDK Libraries** | [GitHub - SharpAPI SDKs](https://github.com/sharpapi) |
 
